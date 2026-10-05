@@ -1,0 +1,21 @@
+{
+  "id": 153,
+  "title": "Beehive Activity Logger Solar Power Management",
+  "repository_slug": "beehive-activity-logger-solar-power-management",
+  "category": "Smart Agriculture",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "Local only",
+  "components": [
+    "LoRa module",
+    "camera module",
+    "flow sensor"
+  ],
+  "scope": "Build a smart agriculture prototype that uses LoRa module, camera module, flow sensor to manage charging and low-power operation. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Solar Power Management demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
